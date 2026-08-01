@@ -632,3 +632,25 @@ button:hover{
     margin:5px;
 
 }
+
+#scene6 .card{
+
+    padding:30px 20px;
+
+}
+
+
+#scene6 h1{
+
+    font-size:35px;
+
+}
+
+
+#scene6 p{
+
+    font-size:17px;
+
+    min-height:0;
+
+}
